@@ -8,7 +8,7 @@
 # Team-FDI_DustPrescription
 ![badge](./img/FDI.png)
 <br/>
-🌟Mobile Application Using Android Studio for PM Hackaton🌟
+🌟Data Analysis for prediction using Python, R🌟
 <br/>
 ![DataAnalysis](https://img.shields.io/badge/DataAnalysis-JupyterNotebook-informational.svg)
 ![FDI](https://img.shields.io/badge/Team-FDI-darkgreen.svg)
