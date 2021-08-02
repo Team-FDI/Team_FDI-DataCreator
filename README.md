@@ -1,7 +1,7 @@
 # Team_FDI-DataCreator
 
 # 2019 데이터 크리에이터 해커톤 우수상 수상작
-* won the 3rd prize
+* won the prize
 * Host: Ministry of Science and Technology(과기정통부)
 * Sponsor: NIA(National Information Society Agency)
 
